@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    font-size: 14px;
+    color: red;
+}
+
+body {
+    background-color: thistle;
+}
+
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.text-biru{
+    color: blue;
+}
+
+.text-jingga{
+    color: orange;
+}
+
+#teks-pink{
+    color: rgb(0, 0, 0);
+}
+
+p.text-biru{
+    font-weight: bold;
+}
